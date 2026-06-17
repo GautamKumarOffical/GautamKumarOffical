@@ -8,24 +8,23 @@
 <strong>Software Engineer</strong> • <strong>Platform Engineering</strong> • <strong>Cloud Infrastructure</strong> • <strong>AI Systems</strong>
 
 <p>
-  <a href="https://www.24bitsystem.com">Website</a> •
-  <a href="https://www.linkedin.com/in/thegautamkumar/">LinkedIn</a> •
-  <a href="https://github.com/GautamKumarOffical">GitHub</a>
+  <a href="https://www.24bitsystem.com"><img src="https://img.shields.io/badge/Website-24Bit_System-0f172a?style=for-the-badge" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/thegautamkumar/"><img src="https://img.shields.io/badge/LinkedIn-Gautam_Kumar-0a66c2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://github.com/GautamKumarOffical"><img src="https://img.shields.io/badge/GitHub-GautamKumarOffical-111827?style=for-the-badge" alt="GitHub" /></a>
 </p>
 
-<p><strong>Building practical systems that are fast to ship, reliable in production, and useful in the real world.</strong></p>
+<p><strong>Building practical systems that ship fast, scale cleanly, and solve real problems.</strong></p>
 
 </div>
 
 ---
 
-## Profile
+## Positioning
 
-I work at the intersection of platform engineering, cloud infrastructure,
-AI workflows, and developer tooling.
+I work where platform engineering, cloud infrastructure, applied AI, and developer tooling overlap.
 
-My focus is simple: turn strong technical foundations into products and systems
-that teams can actually operate, scale, and trust.
+My focus is turning strong technical foundations into products and systems that teams can
+actually operate, scale, and trust in production.
 
 <table>
   <tr>
@@ -44,9 +43,9 @@ that teams can actually operate, scale, and trust.
 - Product-focused engineering
 
   </td>
-    <td valign="top" width="50%">
+  <td valign="top" width="50%">
 
-### Working Style
+### Engineering Style
 
 - Clear architecture over noisy complexity
 - Practical engineering over hype
@@ -58,56 +57,56 @@ that teams can actually operate, scale, and trust.
   </tr>
 </table>
 
-## Products
+## Products Built
 
 <table>
   <tr>
     <td valign="top" width="50%">
       <a href="https://www.24bitsystem.com/inventory-management-system">
-        <img src="https://www.24bitsystem.com/assets-new/images/product-icon/qentro.png" alt="Qentro" height="58" />
+        <img src="https://www.24bitsystem.com/assets-new/images/product-icon/qentro.png" alt="Qentro" height="60" />
       </a>
 
-### [Qentro](https://www.24bitsystem.com/inventory-management-system)
+#### [Qentro](https://www.24bitsystem.com/inventory-management-system)
 
-Inventory management system built for stock visibility, operational clarity, and day-to-day business control.
+Inventory management system focused on stock visibility, operational clarity, and business control.
 
   </td>
-    <td valign="top" width="50%">
+  <td valign="top" width="50%">
       <a href="https://www.24bitsystem.com/tripdraft-itinerary-generator">
-        <img src="https://www.24bitsystem.com/assets-new/images/product-icon/tripdraft.png" alt="Tripdraft" height="58" />
+        <img src="https://www.24bitsystem.com/assets-new/images/product-icon/tripdraft.png" alt="Tripdraft" height="60" />
       </a>
 
-### [Tripdraft](https://www.24bitsystem.com/tripdraft-itinerary-generator)
+#### [Tripdraft](https://www.24bitsystem.com/tripdraft-itinerary-generator)
 
-AI-powered itinerary generator designed for faster planning, cleaner trip organization, and smarter travel workflows.
+AI itinerary generator designed for faster planning, cleaner trip organization, and smarter travel workflows.
 
   </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
       <a href="https://www.24bitsystem.com/free-seo-site-checkup">
-        <img src="https://www.24bitsystem.com/assets-new/images/product-icon/thelinksmaster.png" alt="Thelinksmaster" height="58" />
+        <img src="https://www.24bitsystem.com/assets-new/images/product-icon/thelinksmaster.png" alt="Thelinksmaster" height="60" />
       </a>
 
-### [Thelinksmaster](https://www.24bitsystem.com/free-seo-site-checkup)
+#### [Thelinksmaster](https://www.24bitsystem.com/free-seo-site-checkup)
 
-SEO site checkup tool that helps surface website issues, technical gaps, and search visibility opportunities.
+SEO site checkup tool that surfaces website issues, technical gaps, and search visibility opportunities.
 
   </td>
-    <td valign="top" width="50%">
+  <td valign="top" width="50%">
       <a href="https://www.24bitsystem.com/hr-management-system">
-        <img src="https://www.24bitsystem.com/assets-new/images/product-icon/hrm.png" alt="HRM" height="58" />
+        <img src="https://www.24bitsystem.com/assets-new/images/product-icon/hrm.png" alt="HRM" height="60" />
       </a>
 
-### [HRM](https://www.24bitsystem.com/hr-management-system)
+#### [HRM](https://www.24bitsystem.com/hr-management-system)
 
-HR management system for streamlining people operations, team workflows, and core organizational processes.
+HR management system built to streamline people operations, team workflows, and internal processes.
 
   </td>
   </tr>
 </table>
 
-## Focus Areas
+## Focus
 
 - AI agent workflows and developer automation
 - Platform engineering and internal infrastructure
