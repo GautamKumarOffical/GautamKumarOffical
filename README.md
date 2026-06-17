@@ -8,93 +8,94 @@
 
 ### Founder & CEO @ 24Bit System
 
-Software engineering • Platform engineering • AI systems • Cloud infrastructure
+<strong>Software Engineer</strong> • <strong>Platform Engineering</strong> • <strong>Cloud Infrastructure</strong> • <strong>AI Systems</strong>
 
-[![Followers](https://img.shields.io/github/followers/GautamKumarOffical?label=Followers&style=for-the-badge&color=0f172a)](https://github.com/GautamKumarOffical?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=GautamKumarOffical&label=Profile%20Views&style=for-the-badge&color=0f766e)](https://github.com/GautamKumarOffical)
-[![Profile](https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github)](https://github.com/GautamKumarOffical)
+<p>
+  <img src="https://img.shields.io/badge/Location-Noida,_India-111827?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/Focus-Product_Execution-0f766e?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/github/followers/GautamKumarOffical?label=Followers&style=for-the-badge&color=1d4ed8" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=GautamKumarOffical&label=Profile%20Views&style=for-the-badge&color=0f172a" alt="Profile views" />
+</p>
 
 </div>
 
-## Overview
+## About
 
-I build practical technology around AI, cloud systems, and developer experience.
-My focus is not just shipping code, but shaping systems that teams can operate,
-scale, and trust.
+I build practical software at the intersection of platform engineering, cloud
+infrastructure, AI workflows, and developer tooling.
 
-Primary languages and tools: Go, Python, Rust, TypeScript, and Tauri.
+I care about systems that are fast to ship, clean to operate, and strong enough
+to support real products in production.
+
+<div align="center">
+
+`Go` `Python` `Rust` `TypeScript` `Tauri`
+
+</div>
+
+## Focus Areas
 
 <table>
   <tr>
     <td valign="top" width="50%">
 
-### What I Work On
+### Building
 
-- AI agent workflows
-- Software engineering
-- Platform engineering
-- Cloud-native systems
-- Developer productivity tooling
-- Product-focused engineering
-- Terminal and CLI experiences
+- AI agent workflows and coding systems
+- Platform engineering foundations
+- Cloud-native application architecture
+- Internal tooling for developer productivity
+- Terminal-first and desktop developer experiences
 
   </td>
   <td valign="top" width="50%">
 
-### Current Direction
+### Working Style
 
-- Studying modern AI infrastructure stacks
-- Customizing coding-agent workflows
-- Exploring open-source systems deeply
-- Building fast, durable software foundations
-- Turning technical ideas into usable products
+- Architecture before noise
+- Practical execution over hype
+- Clean systems over clever systems
+- Tooling that improves team speed
+- Product thinking paired with engineering depth
 
   </td>
   </tr>
 </table>
 
-## Selected Repositories
+## Tech Stack
 
-| Repository | Focus |
-| --- | --- |
-| [omnigent](https://github.com/GautamKumarOffical/omnigent) | Multi-agent orchestration and AI workflow infrastructure |
-| [sglang](https://github.com/GautamKumarOffical/sglang) | High-performance serving for language and multimodal models |
-| [OpenHands](https://github.com/GautamKumarOffical/OpenHands) | AI-assisted software engineering workflows |
-| [bubbletea](https://github.com/GautamKumarOffical/bubbletea) | Terminal UI systems and interactive developer interfaces |
-| [cobra](https://github.com/GautamKumarOffical/cobra) | Production-grade Go CLI architecture |
-| [zeroeye](https://github.com/GautamKumarOffical/zeroeye) | Monitoring, diagnostics, and operational visibility |
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=go,python,rust,typescript,tauri,docker,kubernetes,linux,git,github,vscode" alt="Tech stack" />
+</div>
 
-## Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,go,rust,docker,kubernetes,linux,git,github,vscode" alt="Core stack" />
-</p>
-
-<p align="center">
-  <strong>Languages & tools:</strong> Go, Python, Rust, TypeScript, Tauri
-</p>
-
-## GitHub Analytics
+## GitHub Overview
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=GautamKumarOffical&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GautamKumarOffical&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
 </div>
 
-## Working Style
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GautamKumarOffical&bg_color=00000000&color=0f172a&line=0f766e&point=1d4ed8&area=true&hide_border=true" alt="Contribution activity graph" />
+</div>
 
-I care about systems that are clean, fast, and useful in the real world.
-That usually means strong architecture, thoughtful tooling, and a bias toward
-execution over noise.
+## Interests
+
+- AI engineering
+- Platform engineering
+- Cloud architecture
+- Developer experience
+- CLI and desktop tooling
+- Open-source systems
 
 ## Connect
 
-- GitHub: [@GautamKumarOffical](https://github.com/GautamKumarOffical)
-
 <div align="center">
 
-### Open to collaboration
+[GitHub](https://github.com/GautamKumarOffical)
 
-AI products, cloud platforms, automation systems, and developer tooling.
+[LinkedIn](https://www.linkedin.com/in/thegautamkumar/)
+
+Open to collaboration around AI products, platform systems, cloud tools, and developer workflows.
 
 </div>
