@@ -5,7 +5,7 @@
 
 ### Founder & CEO @ 24Bit System
 
-Software Engineer • Platform Engineering • Cloud Infrastructure • AI Systems
+Software Engineer • Platform Engineering • Cloud Infrastructure • AI Systems • Digital Consultant
 
 [LinkedIn](https://www.linkedin.com/in/thegautamkumar/) • [GitHub](https://github.com/GautamKumarOffical)
 
