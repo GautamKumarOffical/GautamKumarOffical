@@ -7,19 +7,25 @@
 
 <strong>Software Engineer</strong> • <strong>Platform Engineering</strong> • <strong>Cloud Infrastructure</strong> • <strong>AI Systems</strong>
 
-[Website](https://www.24bitsystem.com) • [LinkedIn](https://www.linkedin.com/in/thegautamkumar/) • [GitHub](https://github.com/GautamKumarOffical)
+<p>
+  <a href="https://www.24bitsystem.com">Website</a> •
+  <a href="https://www.linkedin.com/in/thegautamkumar/">LinkedIn</a> •
+  <a href="https://github.com/GautamKumarOffical">GitHub</a>
+</p>
+
+<p><strong>Building practical systems that are fast to ship, reliable in production, and useful in the real world.</strong></p>
 
 </div>
 
-<br />
-
-> I build practical software where platform engineering, cloud infrastructure, AI workflows, and developer tooling come together to create products that teams can actually use, scale, and trust.
+---
 
 ## Profile
 
-I focus on turning strong technical foundations into real products.
-My work sits across infrastructure, developer experience, automation, and applied AI,
-with a bias toward clarity, speed, and reliability.
+I work at the intersection of platform engineering, cloud infrastructure,
+AI workflows, and developer tooling.
+
+My focus is simple: turn strong technical foundations into products and systems
+that teams can actually operate, scale, and trust.
 
 <table>
   <tr>
@@ -27,22 +33,26 @@ with a bias toward clarity, speed, and reliability.
 
 ### Core Stack
 
-- Go
-- Python
-- Rust
-- TypeScript
-- Tauri
+`Go` `Python` `Rust` `TypeScript` `Tauri`
+
+### Strengths
+
+- Platform systems
+- Cloud-native application design
+- Developer tooling
+- Internal automation
+- Product-focused engineering
 
   </td>
     <td valign="top" width="50%">
 
-### What I Build
+### Working Style
 
-- Platform systems
-- Cloud-native applications
-- Developer tooling
-- AI workflow products
-- Internal automation systems
+- Clear architecture over noisy complexity
+- Practical engineering over hype
+- Reliable systems over clever shortcuts
+- Tools that improve team speed
+- Technical depth with business value
 
   </td>
   </tr>
@@ -53,33 +63,45 @@ with a bias toward clarity, speed, and reliability.
 <table>
   <tr>
     <td valign="top" width="50%">
+      <a href="https://www.24bitsystem.com/inventory-management-system">
+        <img src="https://www.24bitsystem.com/assets-new/images/product-icon/qentro.png" alt="Qentro" height="58" />
+      </a>
 
 ### [Qentro](https://www.24bitsystem.com/inventory-management-system)
 
-Inventory management system built for operational clarity, stock visibility, and business control.
+Inventory management system built for stock visibility, operational clarity, and day-to-day business control.
 
   </td>
     <td valign="top" width="50%">
+      <a href="https://www.24bitsystem.com/tripdraft-itinerary-generator">
+        <img src="https://www.24bitsystem.com/assets-new/images/product-icon/tripdraft.png" alt="Tripdraft" height="58" />
+      </a>
 
 ### [Tripdraft](https://www.24bitsystem.com/tripdraft-itinerary-generator)
 
-AI-powered itinerary generator focused on faster travel planning and better trip organization.
+AI-powered itinerary generator designed for faster planning, cleaner trip organization, and smarter travel workflows.
 
   </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
+      <a href="https://www.24bitsystem.com/free-seo-site-checkup">
+        <img src="https://www.24bitsystem.com/assets-new/images/product-icon/thelinksmaster.png" alt="Thelinksmaster" height="58" />
+      </a>
 
 ### [Thelinksmaster](https://www.24bitsystem.com/free-seo-site-checkup)
 
-SEO site checkup tool designed to surface website issues and improve search visibility.
+SEO site checkup tool that helps surface website issues, technical gaps, and search visibility opportunities.
 
   </td>
     <td valign="top" width="50%">
+      <a href="https://www.24bitsystem.com/hr-management-system">
+        <img src="https://www.24bitsystem.com/assets-new/images/product-icon/hrm.png" alt="HRM" height="58" />
+      </a>
 
 ### [HRM](https://www.24bitsystem.com/hr-management-system)
 
-HR management system for organizing people operations, workflows, and core team processes.
+HR management system for streamlining people operations, team workflows, and core organizational processes.
 
   </td>
   </tr>
@@ -89,16 +111,9 @@ HR management system for organizing people operations, workflows, and core team 
 
 - AI agent workflows and developer automation
 - Platform engineering and internal infrastructure
-- Cloud-native system design
-- Developer experience, CLI tools, and desktop tooling
-- Product-minded engineering with a bias toward execution
-
-## Engineering Style
-
-- Keep systems clean, understandable, and production-ready
-- Prefer practical architecture over unnecessary complexity
-- Build tools that improve team speed and product quality
-- Balance engineering depth with real business value
+- Cloud-native systems and architecture
+- CLI, desktop, and developer experience tooling
+- Product-minded engineering with strong delivery discipline
 
 ## Interests
 
@@ -108,6 +123,8 @@ HR management system for organizing people operations, workflows, and core team 
 - Developer tooling
 - Terminal and desktop workflows
 - Open-source systems
+
+---
 
 <div align="center">
 
