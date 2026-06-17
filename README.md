@@ -22,6 +22,13 @@ production use.
 
 **Core stack:** Go, Python, Rust, TypeScript, Tauri
 
+## Products I Build
+
+- [Qentro](https://www.24bitsystem.com/inventory-management-system) - Inventory management system
+- [Tripdraft](https://www.24bitsystem.com/tripdraft-itinerary-generator) - AI itinerary generator
+- [Thelinksmaster](https://www.24bitsystem.com/free-seo-site-checkup) - Free SEO site checkup tool
+- [HRM](https://www.24bitsystem.com/hr-management-system) - HR management system
+
 ## What I Focus On
 
 - AI agent workflows and developer automation
