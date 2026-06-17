@@ -13,37 +13,39 @@ Software Engineer • Platform Engineering • Cloud Infrastructure • AI Syste
 
 ## About
 
-I build practical software across platform engineering, cloud infrastructure,
-AI workflows, and developer tooling.
+I build practical software where platform engineering, cloud infrastructure,
+AI workflows, and developer tooling meet.
 
-I care about systems that are fast to ship, clean to operate, and strong enough
-to support real products in production.
+My work is centered on turning technical ideas into reliable products:
+systems that are fast to ship, clear to operate, and strong enough for real
+production use.
 
-**Languages and tools:** Go, Python, Rust, TypeScript, Tauri
+**Core stack:** Go, Python, Rust, TypeScript, Tauri
 
-## Focus
+## What I Focus On
 
-- AI agent workflows and coding systems
-- Platform engineering foundations
-- Cloud-native application architecture
-- Internal tooling for developer productivity
-- Terminal-first and desktop developer experiences
+- AI agent workflows and developer automation
+- Platform engineering and internal infrastructure
+- Cloud-native system design
+- Developer experience, CLI tools, and desktop tooling
+- Product-minded engineering with a bias toward execution
 
-## Working Style
+## How I Build
 
-- Architecture before noise
-- Practical execution over hype
-- Clean systems over clever systems
-- Tooling that improves team speed
-- Product thinking paired with engineering depth
+- Keep architecture clean and understandable
+- Prefer practical systems over noisy complexity
+- Build tools that improve team speed and product quality
+- Balance engineering depth with real business value
 
 ## Interests
 
 - AI engineering
 - Platform engineering
 - Cloud architecture
-- Developer experience
-- CLI and desktop tooling
+- Developer tooling
+- Terminal and desktop workflows
 - Open-source systems
 
-Open to collaboration around AI products, platform systems, cloud tools, and developer workflows.
+## Connect
+
+Open to collaboration around AI products, platform systems, cloud tooling, and developer workflows.
