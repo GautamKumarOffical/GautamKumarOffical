@@ -32,7 +32,7 @@ actually operate, scale, and trust in production.
 
 ### Core Stack
 
-`Go` `Python` `Rust` `TypeScript` `Tauri`
+`Go` `Python` `Rust` `TypeScript` `Tauri` `Node.js` `PHP` `Docker` `Kubernetes` `Terraform` `and more`
 
 ### Strengths
 
